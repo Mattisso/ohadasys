@@ -1,0 +1,132 @@
+D:\SystemOhada\AccSyscOhoda\AccSyscOhoda.Domain\bin\Debug\AccSyscOhoda.Domain.dll.config
+D:\SystemOhada\AccSyscOhoda\AccSyscOhoda.Domain\bin\Debug\AccSyscOhoda.Domain.dll
+D:\SystemOhada\AccSyscOhoda\AccSyscOhoda.Domain\bin\Debug\AccSyscOhoda.Domain.pdb
+D:\SystemOhada\AccSyscOhoda\AccSyscOhoda.Domain\bin\Debug\EntityFramework.dll
+D:\SystemOhada\AccSyscOhoda\AccSyscOhoda.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\SystemOhada\AccSyscOhoda\AccSyscOhoda.Domain\bin\Debug\EntityFramework.xml
+D:\SystemOhada\AccSyscOhoda\AccSyscOhoda.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\SystemOhada\AccSyscOhoda\AccSyscOhoda.Domain\obj\Debug\AccSyscOhoda.Domain.dll
+D:\SystemOhada\AccSyscOhoda\AccSyscOhoda.Domain\obj\Debug\AccSyscOhoda.Domain.pdb
+D:\SystemOhada\AccSyscOhoda\AccSyscOhoda.Domain\bin\Debug\AccSyscOhoda.Sharedkernel.dll
+D:\SystemOhada\AccSyscOhoda\AccSyscOhoda.Domain\bin\Debug\AccSyscOhoda.Sharedkernel.pdb
+D:\SystemOhada\AccSyscOhoda\AccSyscOhoda.Domain\obj\Debug\AccSyscOhoda.Entities.csprojResolveAssemblyReference.cache
+C:\SysOhada\Dev2\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Entities.dll.config
+C:\SysOhada\Dev2\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Entities.dll
+C:\SysOhada\Dev2\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Entities.pdb
+C:\SysOhada\Dev2\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Sharedkernel.dll
+C:\SysOhada\Dev2\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\EntityFramework.dll
+C:\SysOhada\Dev2\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\SysOhada\Dev2\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Sharedkernel.pdb
+C:\SysOhada\Dev2\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\EntityFramework.xml
+C:\SysOhada\Dev2\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\SysOhada\Dev2\AccSyscOhoda\AccSyscOhoda.Entities\obj\Debug\AccSyscOhoda.Entities.csprojResolveAssemblyReference.cache
+C:\SysOhada\Dev2\AccSyscOhoda\AccSyscOhoda.Entities\obj\Debug\AccSyscOhoda.Entities.dll
+C:\SysOhada\Dev2\AccSyscOhoda\AccSyscOhoda.Entities\obj\Debug\AccSyscOhoda.Entities.pdb
+D:\SystemOhada\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Entities.dll.config
+D:\SystemOhada\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Entities.dll
+D:\SystemOhada\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Entities.pdb
+D:\SystemOhada\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Sharedkernel.dll
+D:\SystemOhada\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\EntityFramework.dll
+D:\SystemOhada\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\SystemOhada\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Sharedkernel.pdb
+D:\SystemOhada\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\EntityFramework.xml
+D:\SystemOhada\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\SystemOhada\AccSyscOhoda\AccSyscOhoda.Entities\obj\Debug\AccSyscOhoda.Entities.csprojResolveAssemblyReference.cache
+D:\SystemOhada\AccSyscOhoda\AccSyscOhoda.Entities\obj\Debug\AccSyscOhoda.Entities.dll
+D:\SystemOhada\AccSyscOhoda\AccSyscOhoda.Entities\obj\Debug\AccSyscOhoda.Entities.pdb
+F:\Local Disk\SystemOhada\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Entities.dll.config
+F:\Local Disk\SystemOhada\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Entities.dll
+F:\Local Disk\SystemOhada\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Entities.pdb
+F:\Local Disk\SystemOhada\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Sharedkernel.dll
+F:\Local Disk\SystemOhada\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\EntityFramework.dll
+F:\Local Disk\SystemOhada\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\EntityFramework.SqlServer.dll
+F:\Local Disk\SystemOhada\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Sharedkernel.pdb
+F:\Local Disk\SystemOhada\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\EntityFramework.xml
+F:\Local Disk\SystemOhada\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\EntityFramework.SqlServer.xml
+F:\Local Disk\SystemOhada\AccSyscOhoda\AccSyscOhoda.Entities\obj\Debug\AccSyscOhoda.Entities.csprojResolveAssemblyReference.cache
+F:\Local Disk\SystemOhada\AccSyscOhoda\AccSyscOhoda.Entities\obj\Debug\AccSyscOhoda.Entities.dll
+F:\Local Disk\SystemOhada\AccSyscOhoda\AccSyscOhoda.Entities\obj\Debug\AccSyscOhoda.Entities.pdb
+C:\SysOhada\Dev2\AccSyscOhoda_With_int\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Entities.dll.config
+C:\SysOhada\Dev2\AccSyscOhoda_With_int\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Entities.dll
+C:\SysOhada\Dev2\AccSyscOhoda_With_int\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Entities.pdb
+C:\SysOhada\Dev2\AccSyscOhoda_With_int\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Sharedkernel.dll
+C:\SysOhada\Dev2\AccSyscOhoda_With_int\AccSyscOhoda.Entities\bin\Debug\EntityFramework.dll
+C:\SysOhada\Dev2\AccSyscOhoda_With_int\AccSyscOhoda.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\SysOhada\Dev2\AccSyscOhoda_With_int\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Sharedkernel.pdb
+C:\SysOhada\Dev2\AccSyscOhoda_With_int\AccSyscOhoda.Entities\bin\Debug\EntityFramework.xml
+C:\SysOhada\Dev2\AccSyscOhoda_With_int\AccSyscOhoda.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\SysOhada\Dev2\AccSyscOhoda_With_int\AccSyscOhoda.Entities\obj\Debug\AccSyscOhoda.Entities.csprojResolveAssemblyReference.cache
+C:\SysOhada\Dev2\AccSyscOhoda_With_int\AccSyscOhoda.Entities\obj\Debug\AccSyscOhoda.Entities.dll
+C:\SysOhada\Dev2\AccSyscOhoda_With_int\AccSyscOhoda.Entities\obj\Debug\AccSyscOhoda.Entities.pdb
+F:\Local Disk\SysOhada\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Entities.dll.config
+F:\Local Disk\SysOhada\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Entities.dll
+F:\Local Disk\SysOhada\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Entities.pdb
+F:\Local Disk\SysOhada\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Sharedkernel.dll
+F:\Local Disk\SysOhada\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\EntityFramework.dll
+F:\Local Disk\SysOhada\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\EntityFramework.SqlServer.dll
+F:\Local Disk\SysOhada\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Sharedkernel.pdb
+F:\Local Disk\SysOhada\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\EntityFramework.xml
+F:\Local Disk\SysOhada\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\EntityFramework.SqlServer.xml
+F:\Local Disk\SysOhada\AccSyscOhoda\AccSyscOhoda.Entities\obj\Debug\AccSyscOhoda.Entities.csprojResolveAssemblyReference.cache
+F:\Local Disk\SysOhada\AccSyscOhoda\AccSyscOhoda.Entities\obj\Debug\AccSyscOhoda.Entities.dll
+F:\Local Disk\SysOhada\AccSyscOhoda\AccSyscOhoda.Entities\obj\Debug\AccSyscOhoda.Entities.pdb
+C:\SysOhada\dev3\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Entities.dll.config
+C:\SysOhada\dev3\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Entities.dll
+C:\SysOhada\dev3\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Entities.pdb
+C:\SysOhada\dev3\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Sharedkernel.dll
+C:\SysOhada\dev3\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\EntityFramework.dll
+C:\SysOhada\dev3\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\SysOhada\dev3\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Sharedkernel.pdb
+C:\SysOhada\dev3\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\EntityFramework.xml
+C:\SysOhada\dev3\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\SysOhada\dev3\AccSyscOhoda\AccSyscOhoda.Entities\obj\Debug\AccSyscOhoda.Entities.csprojResolveAssemblyReference.cache
+C:\SysOhada\dev3\AccSyscOhoda\AccSyscOhoda.Entities\obj\Debug\AccSyscOhoda.Entities.dll
+C:\SysOhada\dev3\AccSyscOhoda\AccSyscOhoda.Entities\obj\Debug\AccSyscOhoda.Entities.pdb
+F:\dev3\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Entities.dll.config
+F:\dev3\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Entities.dll
+F:\dev3\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Entities.pdb
+F:\dev3\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Sharedkernel.dll
+F:\dev3\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\EntityFramework.dll
+F:\dev3\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\EntityFramework.SqlServer.dll
+F:\dev3\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Sharedkernel.pdb
+F:\dev3\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\EntityFramework.xml
+F:\dev3\AccSyscOhoda\AccSyscOhoda.Entities\bin\Debug\EntityFramework.SqlServer.xml
+F:\dev3\AccSyscOhoda\AccSyscOhoda.Entities\obj\Debug\AccSyscOhoda.Entities.csprojResolveAssemblyReference.cache
+F:\dev3\AccSyscOhoda\AccSyscOhoda.Entities\obj\Debug\AccSyscOhoda.Entities.dll
+F:\dev3\AccSyscOhoda\AccSyscOhoda.Entities\obj\Debug\AccSyscOhoda.Entities.pdb
+C:\SysOhada\dev3\AccSyscOhoda_new_But_Not_working\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Entities.dll.config
+C:\SysOhada\dev3\AccSyscOhoda_new_But_Not_working\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Entities.dll
+C:\SysOhada\dev3\AccSyscOhoda_new_But_Not_working\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Entities.pdb
+C:\SysOhada\dev3\AccSyscOhoda_new_But_Not_working\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Sharedkernel.dll
+C:\SysOhada\dev3\AccSyscOhoda_new_But_Not_working\AccSyscOhoda.Entities\bin\Debug\EntityFramework.dll
+C:\SysOhada\dev3\AccSyscOhoda_new_But_Not_working\AccSyscOhoda.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\SysOhada\dev3\AccSyscOhoda_new_But_Not_working\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Sharedkernel.pdb
+C:\SysOhada\dev3\AccSyscOhoda_new_But_Not_working\AccSyscOhoda.Entities\bin\Debug\EntityFramework.xml
+C:\SysOhada\dev3\AccSyscOhoda_new_But_Not_working\AccSyscOhoda.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\SysOhada\dev3\AccSyscOhoda_new_But_Not_working\AccSyscOhoda.Entities\obj\Debug\AccSyscOhoda.Entities.csprojResolveAssemblyReference.cache
+C:\SysOhada\dev3\AccSyscOhoda_new_But_Not_working\AccSyscOhoda.Entities\obj\Debug\AccSyscOhoda.Entities.dll
+C:\SysOhada\dev3\AccSyscOhoda_new_But_Not_working\AccSyscOhoda.Entities\obj\Debug\AccSyscOhoda.Entities.pdb
+F:\Local Disk\SysOhada\AccSyscOhoda_Guid\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Entities.dll.config
+F:\Local Disk\SysOhada\AccSyscOhoda_Guid\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Entities.dll
+F:\Local Disk\SysOhada\AccSyscOhoda_Guid\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Entities.pdb
+F:\Local Disk\SysOhada\AccSyscOhoda_Guid\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Sharedkernel.dll
+F:\Local Disk\SysOhada\AccSyscOhoda_Guid\AccSyscOhoda.Entities\bin\Debug\EntityFramework.dll
+F:\Local Disk\SysOhada\AccSyscOhoda_Guid\AccSyscOhoda.Entities\bin\Debug\EntityFramework.SqlServer.dll
+F:\Local Disk\SysOhada\AccSyscOhoda_Guid\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Sharedkernel.pdb
+F:\Local Disk\SysOhada\AccSyscOhoda_Guid\AccSyscOhoda.Entities\bin\Debug\EntityFramework.xml
+F:\Local Disk\SysOhada\AccSyscOhoda_Guid\AccSyscOhoda.Entities\bin\Debug\EntityFramework.SqlServer.xml
+F:\Local Disk\SysOhada\AccSyscOhoda_Guid\AccSyscOhoda.Entities\obj\Debug\AccSyscOhoda.Entities.csprojResolveAssemblyReference.cache
+F:\Local Disk\SysOhada\AccSyscOhoda_Guid\AccSyscOhoda.Entities\obj\Debug\AccSyscOhoda.Entities.dll
+F:\Local Disk\SysOhada\AccSyscOhoda_Guid\AccSyscOhoda.Entities\obj\Debug\AccSyscOhoda.Entities.pdb
+C:\SysOhada\dev3\AccSyscOhoda_Guid\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Entities.dll.config
+C:\SysOhada\dev3\AccSyscOhoda_Guid\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Entities.dll
+C:\SysOhada\dev3\AccSyscOhoda_Guid\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Entities.pdb
+C:\SysOhada\dev3\AccSyscOhoda_Guid\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Sharedkernel.dll
+C:\SysOhada\dev3\AccSyscOhoda_Guid\AccSyscOhoda.Entities\bin\Debug\EntityFramework.dll
+C:\SysOhada\dev3\AccSyscOhoda_Guid\AccSyscOhoda.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\SysOhada\dev3\AccSyscOhoda_Guid\AccSyscOhoda.Entities\bin\Debug\AccSyscOhoda.Sharedkernel.pdb
+C:\SysOhada\dev3\AccSyscOhoda_Guid\AccSyscOhoda.Entities\bin\Debug\EntityFramework.xml
+C:\SysOhada\dev3\AccSyscOhoda_Guid\AccSyscOhoda.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\SysOhada\dev3\AccSyscOhoda_Guid\AccSyscOhoda.Entities\obj\Debug\AccSyscOhoda.Entities.csprojResolveAssemblyReference.cache
+C:\SysOhada\dev3\AccSyscOhoda_Guid\AccSyscOhoda.Entities\obj\Debug\AccSyscOhoda.Entities.dll
+C:\SysOhada\dev3\AccSyscOhoda_Guid\AccSyscOhoda.Entities\obj\Debug\AccSyscOhoda.Entities.pdb
